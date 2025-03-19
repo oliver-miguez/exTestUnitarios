@@ -24,4 +24,4 @@ Primero verificamos si los dni son correctos, para ello e utilizado el test comp
 
 Lo segundo que hice fue un test para verifica específicamente la letra verificando que si el resto de calcular el dni coincidía con el valor de la letra, mostraba un test correcto.
 
-Lo último que hice fue con un par de test verificar si el la restricción de tamaño de los dni era correct, simplemente verificando el length de los dni nuevos que cree.
+Lo último que hice fue con un par de test verificar si el la restricción de tamaño de los dni era correcta, simplemente verificando el length de los dni nuevos que hice.

@@ -18,7 +18,7 @@ Formato del `Readme` *1 punto*
 
 ### Resolución
 
-Los pasos seguidos para la resolución del examen son los siguientes:
+*** Los pasos seguidos para la resolución del examen son los siguientes: ***
 
 Primero verificamos si los dni son correctos, para ello e utilizado el test comprobarDNI el cual verificaba el calculo de la letra y si esta era correcta devolvia true, en caso contrario devolvia false.
 

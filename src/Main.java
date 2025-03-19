@@ -1,6 +1,8 @@
 /**
  * Clase para el exámen de Test Unitarios de COD
  * Comprueba si la letra del DNI es correcta
+ * @author Oliver Miguez Alonso
+ * @version 1.0
  */
 
 public class Main {

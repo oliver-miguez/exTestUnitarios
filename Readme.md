@@ -20,7 +20,7 @@ Formato del `Readme` *1 punto*
 
 Los pasos seguidos para la resolución del examen son los siguientes:
 
-Primero verificamos si los dni son correctos, para ello utilizamos e utilizado el test comprobarDNI el cual verificaba el calculo de la letra y si esta era correcta devolvia true, en caso contrario devolvia false.
+Primero verificamos si los dni son correctos, para ello e utilizado el test comprobarDNI el cual verificaba el calculo de la letra y si esta era correcta devolvia true, en caso contrario devolvia false.
 
 Lo segundo que hice fue un test para verifica específicamente la letra verificando que si el resto de calcular el dni coincidía con el valor de la letra, mostraba un test correcto.
 
